@@ -1,6 +1,6 @@
 ---
 title: "My Second Blog Post"
-date: "2025-02-09"
+date: "09-02-2025"
 ---
 
 This is my second post!  
