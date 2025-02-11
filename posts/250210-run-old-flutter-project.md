@@ -3,6 +3,7 @@ title: "Menjalankan Flutter Project Lama dengan Java 17"
 date: "10-02-2025"
 time: "12:00"
 place: "Banjarmasin"
+tags: "flutter, code, bug"
 ---
 Sumber: [issue github](https://github.com/flutter/flutter/issues/156304#issuecomment-2397707812)
 

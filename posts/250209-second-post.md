@@ -2,6 +2,7 @@
 title: "My Second Blog Post"
 date: "09-02-2025"
 time: "20:05"
+tags: "journal"
 ---
 
 This is my second post!  
