@@ -4,28 +4,25 @@ date: "19-02-2025"
 time: "14:20"
 place: "Banjarmasin"
 tags: "flutter"
-test: "whyyy"
 source: "https://stackoverflow.com/a/70402001/18857493, https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons/70402001#70402001"
 ---
-Sumber: [stackoverflow](https://stackoverflow.com/a/70402001/18857493)
-
-# Daftar Lengkap Paket Ikon Flutter
+## Daftar Lengkap Paket Ikon Flutter
 
 Flutter menyediakan berbagai ikon bawaan dan paket pihak ketiga yang dapat memperkaya tampilan aplikasi Anda. Berikut adalah beberapa sumber ikon yang dapat Anda manfaatkan dalam proyek Flutter Anda.
 
-## 1. Ikon Material Bawaan Flutter
+### 1. Ikon Material Bawaan Flutter
 
 Flutter memiliki kelas `Icons` yang berisi berbagai ikon sesuai dengan pedoman Desain Material. Untuk menggunakan ikon-ikon ini, pastikan Anda telah mengatur `uses-material-design: true` dalam file `pubspec.yaml` proyek Anda. Daftar lengkap ikon ini dapat ditemukan di dokumentasi resmi Flutter:
 
 [Flutter Icons Documentation](https://api.flutter.dev/flutter/material/Icons-class.html)
 
-## 2. Generator Ikon Kustom
+### 2. Generator Ikon Kustom
 
 Jika Anda memerlukan ikon kustom atau kombinasi dari beberapa set ikon, Anda dapat menggunakan generator ikon seperti **FlutterIcon**. Alat ini memungkinkan Anda memilih ikon dari berbagai sumber dan menghasilkan font ikon yang dapat diintegrasikan ke dalam proyek Flutter Anda.
 
 [FlutterIcon](https://www.fluttericon.com/)
 
-## 3. Paket Ikon Pihak Ketiga
+### 3. Paket Ikon Pihak Ketiga
 
 Selain ikon bawaan, Anda dapat menambahkan paket ikon tambahan ke proyek Flutter untuk mendapatkan lebih banyak variasi ikon. Berikut beberapa paket populer yang tersedia:
 

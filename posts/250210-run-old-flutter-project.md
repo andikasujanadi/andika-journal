@@ -4,8 +4,8 @@ date: "10-02-2025"
 time: "12:00"
 place: "Banjarmasin"
 tags: "flutter, code, bug"
+source: "https://github.com/flutter/flutter/issues/156304#issuecomment-2397707812"
 ---
-Sumber: [issue github](https://github.com/flutter/flutter/issues/156304#issuecomment-2397707812)
 
 Ada 3 file yang harus diubah pada flutter project anda agar flutter project lama anda bisa berjalan pada flutter versi terbaru (3.27.3) paling tidak saat blog ini ditulis.
 
