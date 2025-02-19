@@ -4,8 +4,7 @@ date: "19-02-2025"
 time: "14:20"
 place: "Banjarmasin"
 tags: "flutter"
-source: "https://stackoverflow.com/a/70402001/18857493,
-  https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons/70402001#70402001"
+source: "https://stackoverflow.com/a/70402001/18857493, https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons/70402001#70402001"
 ---
 Sumber: [stackoverflow](https://stackoverflow.com/a/70402001/18857493)
 
